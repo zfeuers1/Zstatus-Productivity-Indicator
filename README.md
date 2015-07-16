@@ -1,4 +1,4 @@
-# Zstatus Availibility Indicator
+# Zstatus Productivity Indicator
 ### Description
 This is a simple command-line controlled LED indicator to show your co-workers your current availibility status.
 The light will turn green when available and red when you do not want to be disturbed. 
